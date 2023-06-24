@@ -1,3 +1,9 @@
+/**
+ * Unknown requires preliminary type checking before
+ * using the unknown-typed variable.
+ * 
+ * @param value the unknown value
+ */
 function processValue(value: unknown): void {
     if (typeof value == "number") {
         const b = value + 1

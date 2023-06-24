@@ -1,7 +1,9 @@
-# Template para projetos de PW no Codespace
+# Aula 07 - TypeScript I
 
-Esse template está configurado para criar um ambiente com as principais dependências que precisamos na aula. Para criar um novo projeto no ambiente:
+Tutorial de recursos básicos da linguagem TypeScript, a saber:
 
-* Crie um novo repositório usando o template;
-* Inicie um codespace a partir do novo repositório;
-* Para criar um novo projeto NPM, digite `npm init` e siga o wizard
+* tipos de dados convencionais (`number`, `string`, `boolean`, arrays, etc.)
+* tipos de dados não-convencionais (`any`, `unknown`, `undefined`, `void`, `never`)
+* tipos-função
+* parâmetros opcionais
+* parâmetros em quantidade variável

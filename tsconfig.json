@@ -1,3 +1,6 @@
+/*
+A simple tsc configuration. Here we just enabled the rootDir and the outDir
+*/
 {
   "compilerOptions": {
     /* Visit https://aka.ms/tsconfig to read more about this file */
